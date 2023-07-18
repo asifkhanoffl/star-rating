@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.type {
+    background-color: aliceblue;
+}
+
+.star {
+    border: none;
+    background: none;
+    color: goldenrod;
+    font-size: 3rem;
+}
+
+.type p {
+    text-align: center;
+}
